@@ -7,3 +7,4 @@ Have a blessed day!
 This line should conflict with a different commit.
 Adding a new line, still nothing to see.
 Okay one more line.
+And this one but that's it!
