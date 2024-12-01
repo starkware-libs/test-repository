@@ -4,3 +4,4 @@ Are you still reading? That's kinda weird...
 Okay seriously stop I'm sure you have better things to do.
 And so do I so I think I'll end it here.
 Have a blessed day!
+This line should conflict with a different commit.
