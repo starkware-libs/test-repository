@@ -6,3 +6,4 @@ And so do I so I think I'll end it here.
 Have a blessed day!
 This line should conflict with a different commit.
 Adding a new line, still nothing to see.
+Okay one more line.
