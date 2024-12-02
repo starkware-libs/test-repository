@@ -1,4 +1,4 @@
-Hey what's up? Thanks for reading my test file!
+Hey there, what's up? Thanks for reading my test file!
 There's nothing to see here though it's just for testing merge queues with graphite :)
 Are you still reading? That's kinda weird...
 Okay seriously stop I'm sure you have better things to do.
